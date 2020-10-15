@@ -1,0 +1,22 @@
+{
+  "name": "ToastMessage",
+  "version": "0.0.1",
+  "summary": "ToastMessage is design library pod",
+  "description": "ToastMessage is library, which support we show popup with message",
+  "homepage": "https://github.com/nguyenhoangit57",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hoang Nguyen": "hoangnguyen4005@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/nguyenhoangit57/ToastMessage",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "ToastMessage/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - SlideToOpen (0.0.1)
+
+DEPENDENCIES:
+  - SlideToOpen (from `../`)
+
+EXTERNAL SOURCES:
+  SlideToOpen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SlideToOpen: ed148d5596b41ae805029b15095f6332d7a22dad
+
+PODFILE CHECKSUM: 47db63b93c8a663c9f2a16fa54f9d5de9f4a4124
+
+COCOAPODS: 1.9.3

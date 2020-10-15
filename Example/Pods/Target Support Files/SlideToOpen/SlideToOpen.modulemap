@@ -1,0 +1,6 @@
+framework module SlideToOpen {
+  umbrella header "SlideToOpen-umbrella.h"
+
+  export *
+  module * { export * }
+}
