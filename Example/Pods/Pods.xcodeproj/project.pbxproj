@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		026613AC68DB77A81AB30433D2EE46A3 /* SlideToOpen-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4271529318CAA3BE6DC0A88ECB1CBAE6 /* SlideToOpen-dummy.m */; };
+		232771D7E8AFDF857DDDBA6428993C87 /* UIView+Nib.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEA2B86C871B417707CDF481E6631884 /* UIView+Nib.swift */; };
 		2CB4B5DD43973D155EF57023B2DD203A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		35A88A60E14A6A919AD1ED09B26321A8 /* UIView+Nib.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD3CB73A8B042937B8C3980AA8498E3B /* UIView+Nib.swift */; };
-		60045AE8760F0FA71741C24B7A43DD3F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		48A79B34E18BF196167B835FE3BE26B7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		5A7E8970B7D3CC23EAECD9E9B15D0620 /* SlideToOpenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3243638160AFCC14E5600F2FE5AD540A /* SlideToOpenView.swift */; };
 		681231B2EF483AEA6B5B2B1A1603B109 /* Pods-ExampleTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6BDD419F652F3675D32741451E718393 /* Pods-ExampleTests-dummy.m */; };
-		7683FC20C862BAC8185987A516B82864 /* SlideToOpenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 262E8ED9F4EFCD0D241160D9601ABAF7 /* SlideToOpenView.swift */; };
-		D1D5022EB8EB9F819E782168AD8792FA /* SlideToOpen-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F6285D18F6252A66E97CD448003C422C /* SlideToOpen-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		AF033ACB353F355233A360DBD418F949 /* SlideToOpen-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 6E71488B60B6B3AA31F74D9F72369441 /* SlideToOpen-dummy.m */; };
 		DEC3CA9196C3D509294D32BE448AF6D0 /* Pods-Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B41E79C10D2183B4E17863A56C910697 /* Pods-Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E19E763AF0218A0E9924AE0E4D1A24B9 /* SlideToOpen-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6020CAD2DA873199B2797900BDCF73D0 /* SlideToOpen-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E69C14A3F44A4CDFF9DD9879660A9B42 /* Pods-Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 19D02D64B16A88E3C04AA24A2931D027 /* Pods-Example-dummy.m */; };
 		EC7B47A69792787D920BA79291DA0771 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		FDAA61236B3BE473275D5531FA259E56 /* Pods-ExampleTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 97F60369B21C7504D22C2F3E0C10FA35 /* Pods-ExampleTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		77306E74CA3EE786CBAD2F2CE84AF0CD /* PBXContainerItemProxy */ = {
+		6D83782B1575FDB4CF3A2588FD7C61AE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -31,38 +31,38 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		012861C96E06142405BC55135E4E128B /* SlideToOpen.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SlideToOpen.modulemap; sourceTree = "<group>"; };
 		07DADC1D08E9BD634FBC308032199D6E /* Pods-ExampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ExampleTests.release.xcconfig"; sourceTree = "<group>"; };
 		09C5334E28CBC780E7A2FC81DE7DCCB7 /* Pods-Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Example-Info.plist"; sourceTree = "<group>"; };
 		0C7BE7BD63270B53563BEB150E1DA59E /* Pods-Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Example.debug.xcconfig"; sourceTree = "<group>"; };
 		19D02D64B16A88E3C04AA24A2931D027 /* Pods-Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Example-dummy.m"; sourceTree = "<group>"; };
 		19F1D0B8781A40709AEB69CB400AFB9D /* Pods-Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		1F667CC0E19EAF34E5A4119E2121F585 /* Pods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		242D38D744758DF493B58EFCE70ECC83 /* SlideToOpen.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SlideToOpen.debug.xcconfig; sourceTree = "<group>"; };
-		262E8ED9F4EFCD0D241160D9601ABAF7 /* SlideToOpenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SlideToOpenView.swift; path = SlideToOpen/Classes/SlideToOpenView.swift; sourceTree = "<group>"; };
+		1F667CC0E19EAF34E5A4119E2121F585 /* Pods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_Example.framework; path = "Pods-Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		27A926A349E56636F258DEE29ABE1ADF /* SlideToOpen.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SlideToOpen.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		39DFB924A1DB17C2FE8B1DF4D1480341 /* SlideToOpen-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SlideToOpen-Info.plist"; sourceTree = "<group>"; };
+		3243638160AFCC14E5600F2FE5AD540A /* SlideToOpenView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SlideToOpenView.swift; path = SlideToOpen/Classes/SlideToOpenView.swift; sourceTree = "<group>"; };
 		3D6CAD1BF1BCC0A7D1FB87ABF0D5205D /* Pods-Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		4271529318CAA3BE6DC0A88ECB1CBAE6 /* SlideToOpen-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SlideToOpen-dummy.m"; sourceTree = "<group>"; };
-		62ADBBBF1297E7724A3616353FDBFE06 /* SlideToOpen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SlideToOpen.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		530BDA9E84F5BFE0C6915045A6B1EEAF /* SlideToOpen-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SlideToOpen-Info.plist"; sourceTree = "<group>"; };
+		6020CAD2DA873199B2797900BDCF73D0 /* SlideToOpen-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SlideToOpen-umbrella.h"; sourceTree = "<group>"; };
+		609BAD0C914986D56C2AC93396B8EADF /* SlideToOpen.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SlideToOpen.release.xcconfig; sourceTree = "<group>"; };
+		62ADBBBF1297E7724A3616353FDBFE06 /* SlideToOpen.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = SlideToOpen.framework; path = SlideToOpen.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		62C623D1D471AB2511470ACF857D3FE2 /* Pods-ExampleTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ExampleTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		630CABE8F692FCDBFD1B122A2D0CE388 /* Pods_ExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		67EA31EAED9B0BEB9CEE086315B20341 /* SlideToOpen.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SlideToOpen.release.xcconfig; sourceTree = "<group>"; };
+		630CABE8F692FCDBFD1B122A2D0CE388 /* Pods_ExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ExampleTests.framework; path = "Pods-ExampleTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BDD419F652F3675D32741451E718393 /* Pods-ExampleTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ExampleTests-dummy.m"; sourceTree = "<group>"; };
+		6E71488B60B6B3AA31F74D9F72369441 /* SlideToOpen-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SlideToOpen-dummy.m"; sourceTree = "<group>"; };
 		6FDE3CD52E416082AE176DBDB70626CB /* Pods-ExampleTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ExampleTests-Info.plist"; sourceTree = "<group>"; };
+		70915F555BAF5EC1DBF2F3091C088C13 /* SlideToOpen.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SlideToOpen.debug.xcconfig; sourceTree = "<group>"; };
+		920436E3BFA9F8EA06764F9868279CEF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		97F60369B21C7504D22C2F3E0C10FA35 /* Pods-ExampleTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ExampleTests-umbrella.h"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AC4F0BC942FDBFD7B9FF3908C5E1A4BB /* Pods-ExampleTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ExampleTests.debug.xcconfig"; sourceTree = "<group>"; };
-		AD0A79A24F6C477538CF6916DABC20AB /* SlideToOpen.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SlideToOpen.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		AEA2B86C871B417707CDF481E6631884 /* UIView+Nib.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Nib.swift"; path = "SlideToOpen/Classes/UIView+Nib.swift"; sourceTree = "<group>"; };
 		B41E79C10D2183B4E17863A56C910697 /* Pods-Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-Example-umbrella.h"; sourceTree = "<group>"; };
-		C02D3BE458F6ED9EC8B337FF28F19F06 /* SlideToOpen-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SlideToOpen-prefix.pch"; sourceTree = "<group>"; };
 		C446CE8F49F5478E670868D947F52FE5 /* Pods-ExampleTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ExampleTests.modulemap"; sourceTree = "<group>"; };
+		CA96EDF196016A65F2700D668B52E63C /* SlideToOpen.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = SlideToOpen.modulemap; sourceTree = "<group>"; };
 		D6135EDF389122C641DC811FC623312E /* Pods-Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Example.release.xcconfig"; sourceTree = "<group>"; };
 		D876BA00A58E54915A12F7B47D3C649C /* Pods-ExampleTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ExampleTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		DD3CB73A8B042937B8C3980AA8498E3B /* UIView+Nib.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIView+Nib.swift"; path = "SlideToOpen/Classes/UIView+Nib.swift"; sourceTree = "<group>"; };
-		E3BC16DAD896EC4A917D1721E89BA0ED /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		F003C18DC43811CF774D0296850D08DA /* SlideToOpen-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SlideToOpen-prefix.pch"; sourceTree = "<group>"; };
 		F1A45E0B6EB826771A16350B666D273E /* Pods-Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Example-frameworks.sh"; sourceTree = "<group>"; };
-		F6285D18F6252A66E97CD448003C422C /* SlideToOpen-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SlideToOpen-umbrella.h"; sourceTree = "<group>"; };
 		FEF8A4D0CFDD18F4F07E729EB41C30C2 /* Pods-Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-Example.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -75,19 +75,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		89FC21735AB762E653A49A350E3F8DA9 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				60045AE8760F0FA71741C24B7A43DD3F /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		CD51A6CAA6788796A84633F9B8F56F0B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				2CB4B5DD43973D155EF57023B2DD203A /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F8390FD7B1E5D34258649EC5DA39D0E6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				48A79B34E18BF196167B835FE3BE26B7 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -104,36 +104,28 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		34864EA0D8A267CF97563E7B1AFB15BF /* Support Files */ = {
+		21D393E546DAD45B4F4854ADB29EA2E5 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				012861C96E06142405BC55135E4E128B /* SlideToOpen.modulemap */,
-				4271529318CAA3BE6DC0A88ECB1CBAE6 /* SlideToOpen-dummy.m */,
-				39DFB924A1DB17C2FE8B1DF4D1480341 /* SlideToOpen-Info.plist */,
-				C02D3BE458F6ED9EC8B337FF28F19F06 /* SlideToOpen-prefix.pch */,
-				F6285D18F6252A66E97CD448003C422C /* SlideToOpen-umbrella.h */,
-				242D38D744758DF493B58EFCE70ECC83 /* SlideToOpen.debug.xcconfig */,
-				67EA31EAED9B0BEB9CEE086315B20341 /* SlideToOpen.release.xcconfig */,
+				CA96EDF196016A65F2700D668B52E63C /* SlideToOpen.modulemap */,
+				6E71488B60B6B3AA31F74D9F72369441 /* SlideToOpen-dummy.m */,
+				530BDA9E84F5BFE0C6915045A6B1EEAF /* SlideToOpen-Info.plist */,
+				F003C18DC43811CF774D0296850D08DA /* SlideToOpen-prefix.pch */,
+				6020CAD2DA873199B2797900BDCF73D0 /* SlideToOpen-umbrella.h */,
+				70915F555BAF5EC1DBF2F3091C088C13 /* SlideToOpen.debug.xcconfig */,
+				609BAD0C914986D56C2AC93396B8EADF /* SlideToOpen.release.xcconfig */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/SlideToOpen";
 			sourceTree = "<group>";
 		};
-		5BFF9675E2DB8EAA9E3025A94859108C /* Development Pods */ = {
+		68178714F2554CBBFCB4CCB40CBD2103 /* SlideToOpen */ = {
 			isa = PBXGroup;
 			children = (
-				6331567AA400D5B5016F743940A4903C /* SlideToOpen */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		6331567AA400D5B5016F743940A4903C /* SlideToOpen */ = {
-			isa = PBXGroup;
-			children = (
-				262E8ED9F4EFCD0D241160D9601ABAF7 /* SlideToOpenView.swift */,
-				DD3CB73A8B042937B8C3980AA8498E3B /* UIView+Nib.swift */,
-				B5B95903B390CED85F5EEB77D0D16C14 /* Pod */,
-				34864EA0D8A267CF97563E7B1AFB15BF /* Support Files */,
+				3243638160AFCC14E5600F2FE5AD540A /* SlideToOpenView.swift */,
+				AEA2B86C871B417707CDF481E6631884 /* UIView+Nib.swift */,
+				E4F2C80D6B178C937776B484B25D1FCB /* Pod */,
+				21D393E546DAD45B4F4854ADB29EA2E5 /* Support Files */,
 			);
 			name = SlideToOpen;
 			path = ../..;
@@ -146,6 +138,14 @@
 				A698A56C0AABAA469E463A53BBD27B7F /* Pods-ExampleTests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		79F1B123E8DCF3778C54068092A3AAF9 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				68178714F2554CBBFCB4CCB40CBD2103 /* SlideToOpen */,
+			);
+			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		A698A56C0AABAA469E463A53BBD27B7F /* Pods-ExampleTests */ = {
@@ -164,15 +164,6 @@
 			path = "Target Support Files/Pods-ExampleTests";
 			sourceTree = "<group>";
 		};
-		B5B95903B390CED85F5EEB77D0D16C14 /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				E3BC16DAD896EC4A917D1721E89BA0ED /* README.md */,
-				AD0A79A24F6C477538CF6916DABC20AB /* SlideToOpen.podspec */,
-			);
-			name = Pod;
-			sourceTree = "<group>";
-		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -185,7 +176,7 @@
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				5BFF9675E2DB8EAA9E3025A94859108C /* Development Pods */,
+				79F1B123E8DCF3778C54068092A3AAF9 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
 				0D789FB8A06265652FB082E0CB51C1D6 /* Products */,
 				690B9F5657E7015EECC7142B65D5F377 /* Targets Support Files */,
@@ -198,6 +189,15 @@
 				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		E4F2C80D6B178C937776B484B25D1FCB /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				920436E3BFA9F8EA06764F9868279CEF /* README.md */,
+				27A926A349E56636F258DEE29ABE1ADF /* SlideToOpen.podspec */,
+			);
+			name = Pod;
 			sourceTree = "<group>";
 		};
 		EDC509F4ACF20869A7F7AAB6B7AF91C5 /* Pods-Example */ = {
@@ -220,19 +220,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		37081272068189EDCC5D605213C78BE9 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E19E763AF0218A0E9924AE0E4D1A24B9 /* SlideToOpen-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		763CEDEE5A8AC19F92861CA4380EEDF1 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				FDAA61236B3BE473275D5531FA259E56 /* Pods-ExampleTests-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		94FD8D0B56D4673625E1F90ACF9FFFE9 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D1D5022EB8EB9F819E782168AD8792FA /* SlideToOpen-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,7 +259,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				7CFDD2D7254856AA7AD6031B6DAC7504 /* PBXTargetDependency */,
+				5DA89F98146E2D8951582D3BFB4714C4 /* PBXTargetDependency */,
 			);
 			name = "Pods-Example";
 			productName = "Pods-Example";
@@ -268,12 +268,12 @@
 		};
 		408F2141CCFAE7862204F348DB7FEEAC /* SlideToOpen */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 761F4BA608D921E4CF2C816471C55002 /* Build configuration list for PBXNativeTarget "SlideToOpen" */;
+			buildConfigurationList = A1A45F0434E0ED4B6729DCFFB42B05AF /* Build configuration list for PBXNativeTarget "SlideToOpen" */;
 			buildPhases = (
-				94FD8D0B56D4673625E1F90ACF9FFFE9 /* Headers */,
-				95F415C898D710505E0734D8CED11523 /* Sources */,
-				89FC21735AB762E653A49A350E3F8DA9 /* Frameworks */,
-				38F914301A5490905494A82CD801A469 /* Resources */,
+				37081272068189EDCC5D605213C78BE9 /* Headers */,
+				3677E5EFB2EEBDF28BD16E2079FE065B /* Sources */,
+				F8390FD7B1E5D34258649EC5DA39D0E6 /* Frameworks */,
+				E28EA5038FF4449A09B40C829E1A1034 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -332,14 +332,14 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		38F914301A5490905494A82CD801A469 /* Resources */ = {
+		C4EDCEA58D0155C749A57D92D68550C2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		C4EDCEA58D0155C749A57D92D68550C2 /* Resources */ = {
+		E28EA5038FF4449A09B40C829E1A1034 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -356,6 +356,16 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		3677E5EFB2EEBDF28BD16E2079FE065B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AF033ACB353F355233A360DBD418F949 /* SlideToOpen-dummy.m in Sources */,
+				5A7E8970B7D3CC23EAECD9E9B15D0620 /* SlideToOpenView.swift in Sources */,
+				232771D7E8AFDF857DDDBA6428993C87 /* UIView+Nib.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5DC10E1D38058EF516781C5FC6292AA0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -372,24 +382,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		95F415C898D710505E0734D8CED11523 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				7683FC20C862BAC8185987A516B82864 /* SlideToOpenView.swift in Sources */,
-				026613AC68DB77A81AB30433D2EE46A3 /* SlideToOpen-dummy.m in Sources */,
-				35A88A60E14A6A919AD1ED09B26321A8 /* UIView+Nib.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7CFDD2D7254856AA7AD6031B6DAC7504 /* PBXTargetDependency */ = {
+		5DA89F98146E2D8951582D3BFB4714C4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = SlideToOpen;
 			target = 408F2141CCFAE7862204F348DB7FEEAC /* SlideToOpen */;
-			targetProxy = 77306E74CA3EE786CBAD2F2CE84AF0CD /* PBXContainerItemProxy */;
+			targetProxy = 6D83782B1575FDB4CF3A2588FD7C61AE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -432,6 +432,42 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		4C3F6381D015DFC1727A57FDB70A393F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 70915F555BAF5EC1DBF2F3091C088C13 /* SlideToOpen.debug.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SlideToOpen/SlideToOpen-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SlideToOpen/SlideToOpen-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SlideToOpen/SlideToOpen.modulemap";
+				PRODUCT_MODULE_NAME = SlideToOpen;
+				PRODUCT_NAME = SlideToOpen;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		6C61D818ACD3C2C116FED6A9C67E91B4 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -497,6 +533,43 @@
 			};
 			name = Debug;
 		};
+		72D3203FE5F9367DE77CE14D11E54115 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 609BAD0C914986D56C2AC93396B8EADF /* SlideToOpen.release.xcconfig */;
+			buildSettings = {
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/SlideToOpen/SlideToOpen-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/SlideToOpen/SlideToOpen-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/SlideToOpen/SlideToOpen.modulemap";
+				PRODUCT_MODULE_NAME = SlideToOpen;
+				PRODUCT_NAME = SlideToOpen;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
 		7DC5F11AFBEAE473E8D3C24A2D11338D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -554,43 +627,6 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
-			};
-			name = Release;
-		};
-		AB4742DE27C70B0D7E146B3B60CBC12C /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 67EA31EAED9B0BEB9CEE086315B20341 /* SlideToOpen.release.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SlideToOpen/SlideToOpen-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SlideToOpen/SlideToOpen-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/SlideToOpen/SlideToOpen.modulemap";
-				PRODUCT_MODULE_NAME = SlideToOpen;
-				PRODUCT_NAME = SlideToOpen;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
@@ -670,42 +706,6 @@
 			};
 			name = Debug;
 		};
-		D67579E748C59DF3D07B0FE9820FD3E4 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 242D38D744758DF493B58EFCE70ECC83 /* SlideToOpen.debug.xcconfig */;
-			buildSettings = {
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/SlideToOpen/SlideToOpen-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/SlideToOpen/SlideToOpen-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/SlideToOpen/SlideToOpen.modulemap";
-				PRODUCT_MODULE_NAME = SlideToOpen;
-				PRODUCT_NAME = SlideToOpen;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		EFD8B1CA548060BEC71401ACA9D4FE7F /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D6135EDF389122C641DC811FC623312E /* Pods-Example.release.xcconfig */;
@@ -757,15 +757,6 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		761F4BA608D921E4CF2C816471C55002 /* Build configuration list for PBXNativeTarget "SlideToOpen" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D67579E748C59DF3D07B0FE9820FD3E4 /* Debug */,
-				AB4742DE27C70B0D7E146B3B60CBC12C /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		792AC6096E9200BBFF9E5F11771345B4 /* Build configuration list for PBXNativeTarget "Pods-Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -780,6 +771,15 @@
 			buildConfigurations = (
 				AEC784EB802E3118A658EBC9094A5C00 /* Debug */,
 				1DEB1E521C9611C8C1BEE076F25FAAB4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A1A45F0434E0ED4B6729DCFFB42B05AF /* Build configuration list for PBXNativeTarget "SlideToOpen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4C3F6381D015DFC1727A57FDB70A393F /* Debug */,
+				72D3203FE5F9367DE77CE14D11E54115 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

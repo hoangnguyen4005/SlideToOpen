@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.name             = 'SlideToOpen'
   s.version          = '0.0.1'
   s.summary          = 'SlideToOpen is design library pod'
-  s.description      = "SlideToOpen is cool library :)"
+  s.description      = "SlideToOpen is cool library. You swipe from left to right. It looks like a slide to unlock of iPhone 4 :)"
   s.homepage         = 'https://github.com/nguyenhoangit57'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Hoang Nguyen' => 'hoangnguyen4005@gmail.com' }
