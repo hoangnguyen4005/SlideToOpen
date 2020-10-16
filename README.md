@@ -1,6 +1,6 @@
 # SlideToOpen
-  - SlideToOpen is cool library. It allow user swipe from left to right.
-  - Public api for you receive event when you swipe completly to the rightside.
+  - SlideToOpen is cool library. You swipe from left to right. It look like slide to unlick of Iphone 4 :)
+  - Public apis allow you receive and hanlde events when you swipe completly to the rightside.
   
 ![Simulator Screen Shot - iPhone 8 - 2020-10-15 at 10 33 36](https://user-images.githubusercontent.com/15699560/96070131-36307b00-0ed2-11eb-88ed-69f20452d183.png)
 ![Simulator Screen Shot - iPhone 8 - 2020-10-15 at 10 33 42](https://user-images.githubusercontent.com/15699560/96070136-3761a800-0ed2-11eb-9a6d-9bf7d0e1b3df.png)
